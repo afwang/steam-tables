@@ -4,5 +4,10 @@
     <string name="app_name">Steam Tables</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="pressure_label">Pressure:</string>
+    <string name="kPa">kPa</string>
+    <string name="temperature_label">Temperature:</string>
+    <string name="celsius">°C</string>
+    <string name="get_properties">Get properties!</string>
 
 </resources>
