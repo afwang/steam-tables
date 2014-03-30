@@ -3,6 +3,7 @@ package com.example.steam_tables;
 import android.os.Bundle;
 import android.app.Activity;
 import android.content.SharedPreferences;
+//import android.util.Log;
 import android.view.Menu;
 import android.widget.EditText;
 
